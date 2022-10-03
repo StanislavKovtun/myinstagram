@@ -17,7 +17,7 @@ git clone https://github.com/StanislavKovtun/myinstagram.git
 7. Перейди в проект, выполнив команду:
 
 ```bash
-cd webinar-instagram
+cd myinstagram
 ```
 
 8. Теперь нужно установить зависимости проекта. В терминале, находясь в директории с текущим проектом, выполни команду:
