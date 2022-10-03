@@ -1,0 +1,21 @@
+.photo {
+    cursor: pointer;
+    flex: 0 0 33.333%;
+    padding: 10px;
+
+    & img {
+        max-width: 100%;
+    }
+
+    @media (--phonePortrait) {
+        padding: 5px;
+    }
+
+    @media (--phoneLandscape) {
+        padding: 5px;
+    }
+
+    @media (--tabletPortrait), (--tabletLandscape) {
+        padding: 7px;
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "extends": [
+      "@sotream/eslint-config-react-js"
+    ],
+    "rules": {
+      // overrides ...
+      "linebreak-style": 0
+    }
+  }
