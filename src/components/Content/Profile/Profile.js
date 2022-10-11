@@ -25,6 +25,7 @@ export const Profile = () => {
                         <span>following</span>
                     </div>
                 </div>
+                <div>This is my pet project on react</div>
             </div>
             <Stories />
         </div>
